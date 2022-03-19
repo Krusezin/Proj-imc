@@ -76,6 +76,7 @@ public class Producao {
         this.minuto = ssegundos / 60;
         ssegundos %= 60;
         segundo = ssegundos;
+        
     }
 
     @Override
